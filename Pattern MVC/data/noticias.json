@@ -1,0 +1,17 @@
+{
+    "noticias": [{
+            "titulo": "Quem tem status não tem carregador",
+            "noticia": "O novo queridinho da apple está vindo com uma noticia maravilhosa para os fans da marca, agora você ai que deseja obter o aparelho vai ter que desembolsar uma grana a mais para o carregador, isso mesmo, será vendido separadamente, e ainda tem mais, os preços mantem os mesmos, sim, não terá baixa de preço."
+        },
+        {
+            "titulo": "Quem tem aparelho bom tem xiaomi",
+            "noticia": "O aparelho desta empresa vem com o carregador na caixa, você não terá que comprar separado e também digo mais, é mais barato e melhor."
+        },
+        {
+            "titulo": "Loren",
+            "noticia": "PSIU"
+        }
+
+
+    ]
+}
